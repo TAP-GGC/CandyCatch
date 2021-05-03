@@ -21,5 +21,5 @@ Programming has grown to become a lucrative industry that has increased exponent
 [Scrathathon Poster (3).pdf](https://github.com/TechAmbassadors-GGC/scratchathon/files/6417778/Scrathathon.Poster.3.pdf)
 
 # Outreach Activities
-- Tap Expo, Oct 10, GGC - To promote IT field and the TAP program to college student
--  Class Workshops (April 12th, 13th, 14th) - to promote IT field to non-IT colle
+- Tap Expo, Oct 10, GGC - To promote IT field and the TAP program to college student.
+-  Class Workshops (April 12th, 13th, 14th) - to promote IT field to non-IT college students.
