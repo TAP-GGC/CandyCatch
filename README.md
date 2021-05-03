@@ -22,4 +22,9 @@ Programming has grown to become a lucrative industry that has increased exponent
 
 # Outreach Activities
 - Tap Expo, Oct 10, GGC - To promote IT field and the TAP program to college student.
--  Class Workshops (April 12th, 13th, 14th) - to promote IT field to non-IT college students.
+-  Class Workshops (April 12th, 13th, 14th) - To promote IT field to non-IT college students.
+
+# Technologies
+We are using Scratch, a block coding based software to introduce basic coding concepts to beginners through interactive games. Block Coding utilizes a drag-and-drop learning environment where programmers use blocks to construct basic programs.
+- Link: https://scratch.mit.edu/explore/projects/games/
+![image](https://user-images.githubusercontent.com/79066007/116935108-e3cb6780-ac33-11eb-9b72-a2e10127654e.png)
