@@ -29,3 +29,15 @@ We are using Scratch, a block coding based software to introduce basic coding co
 - Link: https://scratch.mit.edu/explore/projects/games/
 
 ![image](https://user-images.githubusercontent.com/79066007/116935108-e3cb6780-ac33-11eb-9b72-a2e10127654e.png)
+
+# Project Setup
+- Go to https://scratch.mit.edu/projects/507324213
+- Click **See Inside**
+- Follow along with our Microsoft Word guide found in the **Documents** folder
+
+# Uasge 
+- Begin the game by pressing the green flag, then press **Spacebar**
+- Move the character to the left with the **Left Arrow**.
+- Move the character to the right with the **Right Arrow**.
+- Jump with the **Up Arrow**.
+- Catch as many candies as you can before time runs out, but watch out for X's!
