@@ -12,3 +12,5 @@ Candy Catch is a 2-player competitive item catching game. The goal is to catch m
 ![image](https://user-images.githubusercontent.com/79066007/116934103-7f5bd880-ac32-11eb-8bfb-fc42d3e68ebb.png)
 
 ## Advisors
+- Dr. Anca Doloc Mihu
+- Dr. Cindy Robertson
