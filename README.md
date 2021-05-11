@@ -35,7 +35,7 @@ We are using Scratch, a block coding based software to introduce basic coding co
 - Click **See Inside**
 - Follow along with our Microsoft Word guide found in the **Documents** folder
 
-# Uasge 
+# Usage 
 - Begin the game by pressing the green flag, then press **Spacebar**
 - Move the character to the left with the **Left Arrow**.
 - Move the character to the right with the **Right Arrow**.
