@@ -1,19 +1,26 @@
 # Teaching Programming Fundamentals with Candy Catch
 
 # Description 
-Candy Catch is a 2-player competitive item catching game. The goal is to catch more candies than your opponent. The characters move left, right, ,and jump to catch different items with varying point values. Players must avoid catching bad items that hurt their score. In the end, the scores are compared and the player with the higher score wins.
+* Difficulty: Easy
+* Target Audience: Elementary - High School
+* Duration of Workshop: 60 minutes
+* Needed Material: Scratch.com, A computer with internet access
+* The primary goal of this project is ...
+* The Technology Ambassador Program ([TAP](https://www.ggc.edu/academics/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program)) at GGC strives to break the misconceptions of the IT field by providing fun workshops for students of all backgrounds. TAP students design engaging and fun outreach workshops to encourage interest in IT and STEM.
 
-# Team
-- Anel Coralic
-- Austin Lanier 
-- Carl Mickiewicz
-- Derek Phung
+~~Candy Catch is a 2-player competitive item catching game. The goal is to catch more candies than your opponent. The characters move left, right, ,and jump to catch different items with varying point values. Players must avoid catching bad items that hurt their score. In the end, the scores are compared and the player with the higher score wins.~~
+
+## Team
+* Anel Coralic
+* Austin Lanier 
+* Carl Mickiewicz
+* Derek Phung
 
 <img src="https://user-images.githubusercontent.com/79066007/116934103-7f5bd880-ac32-11eb-8bfb-fc42d3e68ebb.png" width="400" height="300"> 
 
-## Advisors
-- Dr. Anca Doloc Mihu
-- Dr. Cindy Robertson
+### Advisors
+* Dr. Anca Doloc Mihu
+* Dr. Cindy Robertson
 
 # Abstract 
 Programming has grown to become a lucrative industry that has increased exponentially in demand throughout the years and will continue into the future. We are members of the TAP program at GGC where we explore different technologies in order to expose new technology with people. The purpose of our project is to introduce basic programming skills and the world of IT through a fun and engaging game. Concepts we teach include if-then statements, loops, variables, and conditions all within Scratch. Scratch is a block-coding based software that introduces these concepts to beginners through interactive games. Student can decide, after creating their custom copy of our game, if they would like to pursue a future in Programming. Participants will be able to experiment with these basic concepts, which we believe is an integral part of programming. Those who participate will learn new skills in a short amount of time. 
