@@ -38,7 +38,7 @@ We are using Scratch, a block coding based software to introduce basic coding co
 
 # Project Setup
 For Instructions use the pdf linked below <br>
-![Project Guide](Documents/Catch_Game_Guide.pdf)
+![Project Guide](documents/Catch_Game_Guide.pdf)
 
 # Usage 
 - Begin the game by pressing the green flag, then press **Spacebar**
