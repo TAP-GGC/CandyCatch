@@ -1,4 +1,7 @@
 # Teaching Programming Fundamentals with Candy Catch
+## About
+
+Candy Catch is a 2-player competitive item catching game. The goal is to catch more candies than your opponent. The characters move left, right, ,and jump to catch different items with varying point values. Players must avoid catching bad items that hurt their score. In the end, the scores are compared and the player with the higher score wins.
 
 ## Description 
 * Difficulty: Easy
@@ -8,7 +11,6 @@
 * The primary goal of this project is teacing participants the basic logical operators and statements, such as ‘if’ statements and ‘while’ loops through block-coding in scratch.
 * The Technology Ambassador Program ([TAP](https://www.ggc.edu/academics/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program)) at GGC strives to break the misconceptions of the IT field by providing fun workshops for students of all backgrounds. TAP students design engaging and fun outreach workshops to encourage interest in IT and STEM.
 
-~~Candy Catch is a 2-player competitive item catching game. The goal is to catch more candies than your opponent. The characters move left, right, ,and jump to catch different items with varying point values. Players must avoid catching bad items that hurt their score. In the end, the scores are compared and the player with the higher score wins.~~
 
 ## Team
 * Anel Coralic
