@@ -1,6 +1,6 @@
 # Teaching Programming Fundamentals with Candy Catch
 
-# Description 
+## Description 
 * Difficulty: Easy
 * Target Audience: Elementary - High School
 * Duration of Workshop: 60 minutes
