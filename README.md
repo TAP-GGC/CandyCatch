@@ -36,7 +36,7 @@ Programming has grown to become a lucrative industry that has increased exponent
 We are using Scratch, a block coding based software to introduce basic coding concepts to beginners through interactive games. Block Coding utilizes a drag-and-drop learning environment where programmers use blocks to construct basic programs.
 - Link: https://scratch.mit.edu/explore/projects/games/
 
-<img src="media/technology/Scratch_02.png" width="300"> 
+<img src="media/Scratch_02.png" width="300"> 
 
 ## Project Setup
 For Instructions use the pdf linked below <br>
