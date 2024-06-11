@@ -9,6 +9,7 @@ Candy Catch is a 2-player competitive item catching game that uses Scratch. Play
 * Duration of Workshop: 60 minutes
 * Needed Material: Scratch.com, A computer with internet access
 * The primary goal of this project is teaching participants the basic logical operators and statements, such as ‘if’ statements and ‘while’ loops through block-coding in scratch.
+* Scratch is a basic programming where code blocks are created visually by draagging sections of code onto a workspace. 
 * The Technology Ambassador Program ([TAP](https://www.ggc.edu/academics/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program)) at GGC strives to break the misconceptions of the IT field by providing fun workshops for students of all backgrounds. TAP students design engaging and fun outreach workshops to encourage interest in IT and STEM.
 
 
