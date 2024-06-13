@@ -36,7 +36,7 @@ We are using Scratch, a block coding based software to introduce basic coding co
 Sphero is a robotic ball that can be programmed in the Sphero EDU app. The Sphero EDU app uses block coding similar to Scratch. 
 | <img src="media/Scratch_02.png" width="300"> |
 | :-----------------------------------------------------------: | 
-| [Scratch](https://scratch.mit.edu/)) | 
+| [Scratch](https://scratch.mit.edu/) | 
 
  
 
