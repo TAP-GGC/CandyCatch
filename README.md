@@ -39,7 +39,7 @@ Programming has grown to become a lucrative industry that has increased exponent
 ## Similar Projects
 ## Technology
 We are using Scratch, a block coding based software to introduce basic coding concepts to beginners through interactive games. Block Coding utilizes a drag-and-drop learning environment where programmers use blocks to construct basic programs.
-- Link: https://scratch.mit.edu/explore/projects/games/
+- Link to Scratch website: https://scratch.mit.edu/explore/projects/games/
 - Link to completed Candy Catch game: https://scratch.mit.edu/projects/481519033/
 - Link to empty Candy Catch code for workshop: https://scratch.mit.edu/projects/507324213
 
