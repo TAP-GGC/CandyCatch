@@ -46,6 +46,17 @@ Please use the pdf linked below for instructions for Workshop: <br>
 - Link to completed Candy Catch game: https://scratch.mit.edu/projects/481519033/ <br>
 - Link to empty Candy Catch code for workshop: https://scratch.mit.edu/projects/507324213 <br>
 
+### Usage 
+- Begin the game by pressing the green flag, then press **Spacebar**
+- Move the character to the left with the **Left Arrow**.
+- Move the character to the right with the **Right Arrow**.
+- Jump with the **Up Arrow**.
+- Catch as many candies as you can before time runs out, but watch out for X's! ### Usage 
+- Begin the game by pressing the green flag, then press **Spacebar**
+- Move the character to the left with the **Left Arrow**.
+- Move the character to the right with the **Right Arrow**.
+- Jump with the **Up Arrow**.
+- Catch as many candies as you can before time runs out, but watch out for X's!
 
 
 
