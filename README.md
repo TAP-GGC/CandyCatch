@@ -2,6 +2,7 @@
 ## About
 
 Candy Catch is a 2-player competitive item catching game that uses Scratch. Players will learn about 'if-then' and 'while' statements.
+The workshop strives to captivate students' interests toward the IT field by teaching them these basic programming concepts through a fun and interractive game developement proccess.
 
 ## Description 
 * Difficulty: Easy
