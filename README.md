@@ -28,7 +28,7 @@ The workshop strives to captivate students' interests toward the IT field by tea
 
 ## Outreach Activities
 - Tap Expo, April 1, 2021, GGC - To promote IT field and the TAP program to college student.
--  Class Workshops, April 12th - 14th, 2021, 2021 - To promote IT field to non-IT college students.
+-  Class Workshops, April 12th - 14th, 2021 - To promote IT field to non-IT college students.
 
 ## Similar Projects
 ## Technology
