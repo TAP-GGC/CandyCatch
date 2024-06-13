@@ -34,15 +34,14 @@ The workshop strives to captivate students' interests toward the IT field by tea
 ## Technology
 We are using Scratch, a block coding based software to introduce basic coding concepts to beginners through interactive games. Block Coding utilizes a drag-and-drop learning environment where programmers use blocks to construct basic programs.
 - Link to Scratch website: https://scratch.mit.edu/
-- Link to completed Candy Catch game: https://scratch.mit.edu/projects/481519033/
-- Link to empty Candy Catch code for workshop: https://scratch.mit.edu/projects/507324213
 
 <img src="media/Scratch_02.png" width="300"> 
 
 ## Project Setup
 Please use the pdf linked below for instructions for Workshop: <br>
 ![Project Guide](documents/Catch_Game_Guide.pdf)
-
+Link to completed Candy Catch game: https://scratch.mit.edu/projects/481519033/
+Link to empty Candy Catch code for workshop: https://scratch.mit.edu/projects/507324213
 
 
 
