@@ -39,9 +39,9 @@ We are using Scratch, a block coding based software to introduce basic coding co
 
 ## Project Setup
 Please use the pdf linked below for instructions for Workshop: <br>
-![Project Guide](documents/Catch_Game_Guide.pdf)
-Link to completed Candy Catch game: https://scratch.mit.edu/projects/481519033/
-Link to empty Candy Catch code for workshop: https://scratch.mit.edu/projects/507324213
+![Project Guide](documents/Catch_Game_Guide.pdf) <br>
+Link to completed Candy Catch game: https://scratch.mit.edu/projects/481519033/ <br>
+Link to empty Candy Catch code for workshop: https://scratch.mit.edu/projects/507324213 <br>
 
 
 
