@@ -33,9 +33,12 @@ The workshop strives to captivate students' interests toward the IT field by tea
 ## Similar Projects
 ## Technology
 We are using Scratch, a block coding based software to introduce basic coding concepts to beginners through interactive games. Block Coding utilizes a drag-and-drop learning environment where programmers use blocks to construct basic programs.
-- Link to Scratch website: https://scratch.mit.edu/
+Sphero is a robotic ball that can be programmed in the Sphero EDU app. The Sphero EDU app uses block coding similar to Scratch. 
+| <img src="media/Scratch_02.png" width="300"> |
+| :-----------------------------------------------------------: | 
+| [Scratch](https://scratch.mit.edu/)) | 
 
-<img src="media/Scratch_02.png" width="300"> 
+ 
 
 ## Project Setup
 Please use the pdf linked below for instructions for Workshop: <br>
