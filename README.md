@@ -31,6 +31,14 @@ The workshop strives to captivate students' interests toward the IT field by tea
 -  Class Workshops, April 12th - 14th, 2021 - To promote IT field to non-IT college students.
 
 ## Similar Projects
+
+* [Leapformankind](https://github.com/TAP-GGC/leapformankind)
+* [Makeysrace](https://github.com/TAP-GGC/makeysrace)
+* [NinjaTurtler (Scratch with Makey-Makey)](https://github.com/TAP-GGC/NinjaTurtles)
+* [Planimals](https://github.com/TAP-GGC/planimals)
+* [LightUp](https://github.com/TAP-GGC/LightUp-Teaching-Programming-Basics-with-Scratch)
+* [MonsterMakey(Scratch with Makey-Makey - Audio Project)](https://github.com/TAP-GGC/MonsterMakey)
+
 ## Technology
 We are using Scratch, a block coding based software to introduce basic coding concepts to beginners through interactive games. Block Coding utilizes a drag-and-drop learning environment where programmers use blocks to construct basic programs.
 Sphero is a robotic ball that can be programmed in the Sphero EDU app. The Sphero EDU app uses block coding similar to Scratch. 
