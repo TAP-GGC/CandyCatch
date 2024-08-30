@@ -60,7 +60,7 @@ Below is a link to a video walkthrough of our workshop that anyone can do. <br>
 
 ## Workshop Instructions
 Please use the pdf linked below for instructions for Workshop: <br>
-![Project Guide](documents/CandyCatch_step_by_step.pdf) <br>
+[Project Guide](documents/CandyCatch_step_by_step.pdf) <br>
 
 ### Usage 
 - Begin the game by pressing the green flag, then press **Spacebar**
