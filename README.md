@@ -52,7 +52,7 @@ Sphero is a robotic ball that can be programmed in the Sphero EDU app. The Spher
 ## Project Setup
 
 ### Guide to Use Scratch
-[<img src= "Media/InstallingSphero.PNG" width="400" height="200">](https://www.youtube.com/watch?v=v-GUbj7DMEE&list=PLTElqUEQXcpgx3EqxAWPbeGb6dNMnoSGX&index=5)
+[<img src= "media/ScratchGuideThumbnail.png" width="400" height="200">](https://www.youtube.com/watch?v=v-GUbj7DMEE&list=PLTElqUEQXcpgx3EqxAWPbeGb6dNMnoSGX&index=5)
 
 
 ## Short demo instructions
