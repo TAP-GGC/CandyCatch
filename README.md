@@ -13,7 +13,7 @@ The workshop strives to captivate students' interests toward the IT field by tea
 * Scratch is a basic programming where code blocks are created visually by draagging sections of code onto a workspace. 
 * The Technology Ambassador Program ([TAP](https://www.ggc.edu/academics/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program)) at GGC strives to break the misconceptions of the IT field by providing fun workshops for students of all backgrounds. TAP students design engaging and fun outreach workshops to encourage interest in IT and STEM.
  ### Commercial Video 
-Click the image below to watch a 30 second commercial for the project <br> <br>
+Click the image below to watch a quick commercial for the project <br> <br>
 
 ## Team
 * Anel Coralic
