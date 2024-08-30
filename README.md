@@ -12,7 +12,8 @@ The workshop strives to captivate students' interests toward the IT field by tea
 * The primary goal of this project is teaching participants the basic logical operators and statements, such as ‘if’ statements and ‘while’ loops through block-coding in scratch.
 * Scratch is a basic programming where code blocks are created visually by draagging sections of code onto a workspace. 
 * The Technology Ambassador Program ([TAP](https://www.ggc.edu/academics/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program)) at GGC strives to break the misconceptions of the IT field by providing fun workshops for students of all backgrounds. TAP students design engaging and fun outreach workshops to encourage interest in IT and STEM.
-
+ ### Commercial Video 
+Click the image below to watch a 30 second commercial for the project <br> <br>
 
 ## Team
 * Anel Coralic
@@ -49,9 +50,17 @@ Sphero is a robotic ball that can be programmed in the Sphero EDU app. The Spher
  
 
 ## Project Setup
+
+### Guide to Use Scratch
+[<img src= "Media/InstallingSphero.PNG" width="400" height="200">](https://www.youtube.com/watch?v=v-GUbj7DMEE&list=PLTElqUEQXcpgx3EqxAWPbeGb6dNMnoSGX&index=5)
+
+
+## Short demo instructions
+Below is a link to a video walkthrough of our workshop that anyone can do. <br>
+
+## Workshop Instructions
 Please use the pdf linked below for instructions for Workshop: <br>
 ![Project Guide](documents/CandyCatch_step_by_step.pdf) <br>
-
 
 ### Usage 
 - Begin the game by pressing the green flag, then press **Spacebar**
