@@ -51,8 +51,7 @@ Sphero is a robotic ball that can be programmed in the Sphero EDU app. The Spher
 ## Project Setup
 Please use the pdf linked below for instructions for Workshop: <br>
 ![Project Guide](documents/CandyCatch_step_by_step.pdf) <br>
-- Link to completed Candy Catch game: https://scratch.mit.edu/projects/481519033/ <br>
-- Link to empty Candy Catch code for workshop: https://scratch.mit.edu/projects/507324213 <br>
+
 
 ### Usage 
 - Begin the game by pressing the green flag, then press **Spacebar**
