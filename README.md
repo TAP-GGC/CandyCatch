@@ -33,11 +33,11 @@ Click the image below to watch a quick commercial for the project <br> <br>
 
 ## Similar Projects
 
-* [Leapformankind](https://github.com/TAP-GGC/leapformankind)
-* [Makeysrace](https://github.com/TAP-GGC/makeysrace)
+* [Leapformankind (Scratch)](https://github.com/TAP-GGC/leapformankind)
+* [Makeysrace (Scratch)](https://github.com/TAP-GGC/makeysrace)
 * [NinjaTurtler (Scratch with Makey-Makey)](https://github.com/TAP-GGC/NinjaTurtles)
-* [Planimals](https://github.com/TAP-GGC/planimals)
-* [LightUp](https://github.com/TAP-GGC/LightUp-Teaching-Programming-Basics-with-Scratch)
+* [Planimals (Scratch)](https://github.com/TAP-GGC/planimals)
+* [LightUp (Scratch)](https://github.com/TAP-GGC/LightUp-Teaching-Programming-Basics-with-Scratch)
 * [MonsterMakey(Scratch with Makey-Makey - Audio Project)](https://github.com/TAP-GGC/MonsterMakey)
 
 ## Technology
