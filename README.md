@@ -38,7 +38,7 @@ Click the image below to watch a quick commercial for the project <br> <br>
 * [NinjaTurtler (Scratch with Makey-Makey)](https://github.com/TAP-GGC/NinjaTurtles)
 * [Planimals (Scratch)](https://github.com/TAP-GGC/planimals)
 * [LightUp (Scratch)](https://github.com/TAP-GGC/LightUp-Teaching-Programming-Basics-with-Scratch)
-* [MonsterMakey(Scratch with Makey-Makey - Audio Project)](https://github.com/TAP-GGC/MonsterMakey)
+* [MonsterMakey (Scratch with Makey-Makey - Audio Project)](https://github.com/TAP-GGC/MonsterMakey)
 
 ## Technology
 We are using Scratch, a block coding based software to introduce basic coding concepts to beginners through interactive games. Block Coding utilizes a drag-and-drop learning environment where programmers use blocks to construct basic programs.
