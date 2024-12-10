@@ -24,7 +24,8 @@ Click the image below to watch a quick commercial for the project <br> <br>
 * Dr. Anca Doloc Mihu
 * Dr. Cindy Robertson
 ### Team Photo
-<img src="https://user-images.githubusercontent.com/79066007/116934103-7f5bd880-ac32-11eb-8bfb-fc42d3e68ebb.png" width="400" height="300"> 
+<img src="https://user-images.githubusercontent.com/79066007/116934103-7f5bd880-ac32-11eb-8bfb-fc42d3e68ebb.png" width="400" height="300"> <br>
+(From Left to Right - Anel Coralic, Austin Lanier, Derek Phung, Carl Mickiewicz)
 
 
 ## Outreach Activities
