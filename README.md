@@ -69,6 +69,10 @@ Please use the pdf linked below for instructions for Workshop: <br>
 [Project Guide](documents/CandyCatch_step_by_step.pdf) <br>
 
 ### Usage 
+
+[Download and Play Now!](resources/CandyCatch.sb3)
+
+Download the file and upload it to [Scratch](https://scratch.mit.edu/projects/editor/?tutorial=getStarted) to play! 
 - Begin the game by pressing the green flag, then press **Spacebar**
 - Move the character to the left with the **Left Arrow**.
 - Move the character to the right with the **Right Arrow**.
