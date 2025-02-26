@@ -5,6 +5,7 @@ Candy Catch is a 2-player competitive item catching game that uses Scratch. Play
 The workshop strives to captivate students' interests toward the IT field by teaching them these basic programming concepts through a fun and interractive game developement process.
 
 [Download and Play Now!](resources/CandyCatch.sb3)
+
 Download the file and upload it to [Scratch](https://scratch.mit.edu/projects/editor/?tutorial=getStarted) to play! 
 
 
