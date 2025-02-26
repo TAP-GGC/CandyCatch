@@ -69,7 +69,7 @@ Below is a link to a video walkthrough of our workshop that anyone can do. <br>
 Please use the pdf linked below for instructions for Workshop: <br>
 [Step by Step Guide](documents/CandyCatch_step_by_step.pdf) <br>
 
-### How to Play 
+### Usage
 
 [Download and Play Now!](resources/CandyCatch.sb3)
 
