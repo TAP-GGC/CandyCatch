@@ -63,14 +63,6 @@ Sphero is a robotic ball that can be programmed in the Sphero EDU app. The Spher
 ### Guide to Use Scratch
 [<img src= "media/ScratchGuideThumbnail.png" width="400" height="200">](https://www.youtube.com/watch?v=v-GUbj7DMEE&list=PLTElqUEQXcpgx3EqxAWPbeGb6dNMnoSGX&index=5)
 
-
-## Short demo instructions
-Below is a link to a video walkthrough of our workshop that anyone can do. <br>
-
-## Workshop Instructions
-Please use the pdf linked below for instructions for Workshop: <br>
-[Step by Step Guide](documents/CandyCatch_step_by_step.pdf) <br>
-
 ### Usage
 
 [Download and Play Now!](resources/CandyCatch.sb3)
@@ -87,6 +79,9 @@ Download the file and upload it to [Scratch](https://scratch.mit.edu/projects/ed
 - Jump with the **Up Arrow**.
 - Catch as many candies as you can before time runs out, but watch out for X's!
 
+## Short demo instructions
+Below is a link to a video walkthrough of our workshop that anyone can do. <br>
 
-
-
+## Workshop Instructions
+Please use the pdf linked below for instructions for Workshop: <br>
+[Step by Step Guide](documents/CandyCatch_step_by_step.pdf) <br>
