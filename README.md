@@ -10,7 +10,7 @@ Download the file and upload it to [Scratch](https://scratch.mit.edu/projects/ed
 
 
 
-## Description 
+## Project Information 
 * Difficulty: Easy
 * Target Audience: Elementary - High School
 * Duration of Workshop: 60 minutes
