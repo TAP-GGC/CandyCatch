@@ -33,8 +33,11 @@ Click the image below to watch a quick commercial for the project <br> <br>
 * Dr. Anca Doloc Mihu
 * Dr. Cindy Robertson
 
+## Project Description
+Candy Catch is a project that teaches basic programming concepts to people of all ages in a fun and exciting way by helping create a game. 
+
 ## Outreach Activities
-- Tap Expo, April 1, 2021, GGC - To promote IT field and the TAP program to college student.
+- Tap Expo, April 1, 2021, GGC - To promote IT field and the TAP program to college students.
 -  Class Workshops, April 12th - 14th, 2021 - To promote IT field to non-IT college students.
 
 ## Similar Projects
