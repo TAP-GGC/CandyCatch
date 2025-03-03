@@ -21,18 +21,17 @@ Download the file and upload it to [Scratch](https://scratch.mit.edu/projects/ed
  ### Commercial Video 
 Click the image below to watch a quick commercial for the project <br> <br>
 
-## Team
-* Anel Coralic
-* Austin Lanier 
-* Carl Mickiewicz
-* Derek Phung
-### Advisors
-* Dr. Anca Doloc Mihu
-* Dr. Cindy Robertson
+
 ### Team Photo
 <img src="https://user-images.githubusercontent.com/79066007/116934103-7f5bd880-ac32-11eb-8bfb-fc42d3e68ebb.png" width="400" height="300"> <br>
 (From Left to Right - Anel Coralic, Austin Lanier, Derek Phung, Carl Mickiewicz)
-
+* Anel Coralic
+* Austin Lanier
+* Derek Phung
+* Carl Mickiewicz
+### Advisors
+* Dr. Anca Doloc Mihu
+* Dr. Cindy Robertson
 
 ## Outreach Activities
 - Tap Expo, April 1, 2021, GGC - To promote IT field and the TAP program to college student.
