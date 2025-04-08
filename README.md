@@ -1,47 +1,43 @@
 # Teaching Programming Fundamentals with Candy Catch
-## About
+## :loudspeaker: About
 
 Candy Catch is a 2-player competitive item catching game that uses Scratch. Players will learn about 'if-then' and 'while' statements.
-The workshop strives to captivate students' interests toward the IT field by teaching them these basic programming concepts through a fun and interractive game developement process.
-
-[Download and Play Now!](resources/CandyCatch.sb3)
-
-Download the file and upload it to [Scratch](https://scratch.mit.edu/projects/editor/?tutorial=getStarted) to play! 
+The workshop strives to captivate students' interests toward the IT field by teaching them these basic programming concepts through a fun and interractive game developement process. 
 
 
 
-## Project Information 
-* Difficulty: Easy
-* Target Audience: Elementary - High School
-* Duration of Workshop: 60 minutes
-* Needed Material: Scratch.com, A computer with internet access
-* The primary goal of this project is teaching participants the basic logical operators and statements, such as ‘if’ statements and ‘while’ loops through block-coding in scratch.
-* Scratch is a basic programming where code blocks are created visually by draagging sections of code onto a workspace. 
-* The Technology Ambassador Program ([TAP](https://www.ggc.edu/academics/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program)) at GGC strives to break the misconceptions of the IT field by providing fun workshops for students of all backgrounds. TAP students design engaging and fun outreach workshops to encourage interest in IT and STEM.
+## :bulb: Project Information 
+* <b>Difficulty:</b> Easy
+* <b>Target Audience:</b> Elementary - High School
+* <b>Duration of Workshop:</b> 60 minutes
+* <b>Needed Material:</b> Scratch.com, A computer with internet access
+* <b> Learning Outcomes:</b> To teach participants the basic logical operators and statements, such as ‘If’ statements and ‘While’ loops through block-coding in Scratch
+* <b>Main Technology:</b> Scratch 
+* [Technology Ambassador Program](https://tapggc.org/) <b>(TAP)</b> is a project-based class that provides a collaborative environment for students to work with their fellow classmates on a semester-long project using technologies of their choice. TAP strives to increase participation in IT through numerous outreach activities and workshops that are designed to showcase the creative and fun side of technology.
  ### Commercial Video 
 Click the image below to watch a quick commercial for the project <br> <br>
 
 
-### Team Photo
+### :pencil2: Team Photo
 <img src="https://user-images.githubusercontent.com/79066007/116934103-7f5bd880-ac32-11eb-8bfb-fc42d3e68ebb.png" width="400" height="300"> <br>
 (From Left to Right - Anel Coralic, Austin Lanier, Derek Phung, Carl Mickiewicz)
 * Anel Coralic
 * Austin Lanier
 * Derek Phung
 * Carl Mickiewicz
-### Advisors
+### :mortar_board: Advisors
 * Dr. Anca Doloc Mihu
 * Dr. Cindy Robertson
 
-## Project Description
+## :page_with_curl: Project Description
 Candy Catch is a project that teaches basic programming concepts to people of all ages in a fun and exciting way by helping create a game. 
 
-## Outreach Activities
-- Tap Expo, April 1, 2021, GGC - To promote IT field and the TAP program to college students.
--  Class Workshops, April 12th - 14th, 2021 - To promote IT field to non-IT college students.
+## :open_hands: Outreach Activities
+1. <b>TAP Expo</b>, April 1, 2021, Georgia Gwinnett College: to promote the IT field and encourage college students to sign up for TAP.
+2. <b>Class Workshops</b>, April 12-14, 2021, Georgia Gwinnett College: to promote the IT field to non-IT students.
 
-## Similar Projects
-
+## :mag_right: Similar Projects
+If you're interested in more workshops that utilize Scratch, check these out:
 * [Leapformankind (Scratch)](https://github.com/TAP-GGC/leapformankind)
 * [Makeysrace (Scratch)](https://github.com/TAP-GGC/makeysrace)
 * [NinjaTurtler (Scratch with Makey-Makey)](https://github.com/TAP-GGC/NinjaTurtles)
@@ -49,7 +45,7 @@ Candy Catch is a project that teaches basic programming concepts to people of al
 * [LightUp (Scratch)](https://github.com/TAP-GGC/LightUp-Teaching-Programming-Basics-with-Scratch)
 * [MonsterMakey (Scratch with Makey-Makey - Audio Project)](https://github.com/TAP-GGC/MonsterMakey)
 
-## Technology
+## :computer: Technology
 We are using Scratch, a block coding based software to introduce basic coding concepts to beginners through interactive games. Block Coding utilizes a drag-and-drop learning environment where programmers use blocks to construct basic programs.
 Sphero is a robotic ball that can be programmed in the Sphero EDU app. The Sphero EDU app uses block coding similar to Scratch. 
 | <img src="media/Scratch_02.png" width="300"> |
@@ -58,30 +54,26 @@ Sphero is a robotic ball that can be programmed in the Sphero EDU app. The Spher
 
  
 
-## Project Setup
+## :candy: Project Setup
 
 ### Guide to Use Scratch
 [<img src= "media/ScratchGuideThumbnail.png" width="400" height="200">](https://www.youtube.com/watch?v=v-GUbj7DMEE&list=PLTElqUEQXcpgx3EqxAWPbeGb6dNMnoSGX&index=5)
 
 ### Usage
 
-[Download and Play Now!](resources/CandyCatch.sb3)
+Download Candy Catch [Here](resources/CandyCatch.sb3) and upload it to [Scratch](https://scratch.mit.edu/projects/editor/?tutorial=getStarted) to play! 
 
-Download the file and upload it to [Scratch](https://scratch.mit.edu/projects/editor/?tutorial=getStarted) to play! 
+#### Game Controls
 - Begin the game by pressing the green flag, then press **Spacebar**
-- Move the character to the left with the **Left Arrow**.
-- Move the character to the right with the **Right Arrow**.
-- Jump with the **Up Arrow**.
-- Catch as many candies as you can before time runs out, but watch out for X's! ### Usage 
-- Begin the game by pressing the green flag, then press **Spacebar**
-- Move the character to the left with the **Left Arrow**.
-- Move the character to the right with the **Right Arrow**.
-- Jump with the **Up Arrow**.
-- Catch as many candies as you can before time runs out, but watch out for X's!
+- Player 1 moves and jumps using the **WASD** keys
+- Player 2 moves and jumps using the **Arrow Keys**
+  
+Catch as many candies as you can before time runs out, but watch out for X's!
 
 ## Short demo instructions
 Below is a link to a video walkthrough of our workshop that anyone can do. <br>
 
 ## Workshop Instructions
-Please use the pdf linked below for instructions for Workshop: <br>
-[Step by Step Guide](documents/CandyCatch_step_by_step.pdf) <br>
+Step By Step Guide: [PDF](documents/CandyCatch_step_by_step.pdf) <br>
+Workshop Slides: [PPTX](documents/Teaching%20Programming%20Fundamentals%20with%20Candy%20Catch%20Game%20(2).pptx) <br>
+Commented Code: [PDF](documents/TeachingProgrammingFundamentalswithCandyCatchCommentedCode.pdf) <br>
