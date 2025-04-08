@@ -63,12 +63,19 @@ Sphero is a robotic ball that can be programmed in the Sphero EDU app. The Spher
 
 Download Candy Catch [Here](resources/CandyCatch.sb3) and upload it to [Scratch](https://scratch.mit.edu/projects/editor/?tutorial=getStarted) to play! 
 
+#### Game Objective
+Catch as many candies as you can before the time runs out! Watch out for X's or else you will lose points.
+
 #### Game Controls
-- Begin the game by pressing the green flag, then press **Spacebar**
-- Player 1 moves and jumps using the **WASD** keys
-- Player 2 moves and jumps using the **Arrow Keys**
-  
-Catch as many candies as you can before time runs out, but watch out for X's!
+* How To Start
+  * Press the **Green Flag** to begin running the game
+  * Then press **Spacebar** to start playing
+* Player 1 uses the **WASD** keys
+  * Move Left and Right: **A** and **D** keys
+  * Jump: **W** key
+* Player 2 uses the **Arrow** keys
+  * Move Left and Right: **Left** and **Right** arrow keys
+  * Jump: **Up** arrow key
 
 ## Short demo instructions
 Below is a link to a video walkthrough of our workshop that anyone can do. <br>
