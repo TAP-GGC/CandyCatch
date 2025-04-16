@@ -82,5 +82,5 @@ Below is a link to a video walkthrough of our workshop that anyone can do. <br>
 
 ## Workshop Instructions
 Step By Step Guide: [PDF](documents/CandyCatch_step_by_step.pdf) <br>
-Workshop Slides: [PPTX](documents/Teaching%20Programming%20Fundamentals%20with%20Candy%20Catch%20Game%20(2).pptx) <br>
+Workshop Slides: [PDF](documents/Teaching%20Programming%20Fundamentals%20with%20Candy%20Catch%20Game.pdf), [PPTX](documents/Teaching%20Programming%20Fundamentals%20with%20Candy%20Catch%20Game.pptx)<br>
 Commented Code: [PDF](documents/TeachingProgrammingFundamentalswithCandyCatchCommentedCode.pdf) <br>
